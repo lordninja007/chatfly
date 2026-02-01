@@ -1,0 +1,8 @@
+{
+  "name": "Minha Vida App",
+  "description": "An all-in-one personal management app for finances, goals, and reading progress, integrated with Google Gemini AI for voice and image processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
